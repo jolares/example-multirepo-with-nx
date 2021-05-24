@@ -1,0 +1,6 @@
+
+sharelib/
+workspace/
+
+node_modules
+.idea
